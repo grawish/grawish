@@ -1,5 +1,9 @@
 <h1 align="center">I Am Grawish Sachdeva</h1>
 
+>Design is not just what it looks like
+>and feels like. Design is how it works.
+>     - Steve Jobs
+
 <!--
 **grawish/grawish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -15,3 +19,6 @@ Here are some ideas to get you started:
 - My Portfolio [Website](https://grawishh.tk)
 - 😄 Pronouns: he,his,him
 - ⚡ Fun Fact: Coders get nor sleep neither date
+- Produly Indian 🇮🇳
+
+![Indian Flag](https://acegif.com/wp-content/uploads/indian-flag-15.gif)
