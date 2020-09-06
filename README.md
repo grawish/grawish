@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/grawish-sachdeva-a11b9218a), [Email](mailto:grawish06@gmail.com), [Instagram](https://instagram.com/unpaired_electron_786)
 - My Portfolio [Website](https://grawishh.tk)
 - 😄 Pronouns: he,his,him
-- ⚡ Fun Fact: Coders get nor sleep neither date
+- ⚡ Fun Fact: Coders get neither sleep nor date
 - Produly Indian 🇮🇳
 
 ![Indian Flag](https://acegif.com/wp-content/uploads/indian-flag-15.gif)
