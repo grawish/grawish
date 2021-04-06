@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ![Grawish's github stats](https://github-readme-stats.vercel.app/api?username=grawish&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=888888&bg_color=111111)
 <img src="https://github-readme-stats.vercel.app/api?username=grawish&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=888888&bg_color=111111">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grawish)](https://github.com/grawish/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grawish&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=888888&bg_color=111111)](https://github.com/grawish/github-readme-stats&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=888888&bg_color=111111)
