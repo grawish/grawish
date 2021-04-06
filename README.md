@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![Indian Flag](https://acegif.com/wp-content/uploads/indian-flag-15.gif)
 
 ![Grawish's github stats](https://github-readme-stats.vercel.app/api?username=grawish)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grawish)](https://github.com/grawish/github-readme-stats)
