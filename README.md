@@ -20,8 +20,8 @@
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grawish&show_icons=true&locale=en&layout=compact" alt="grawish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grawish&show_icons=true&locale=en" alt="grawish" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=grawish&show_icons=true&locale=en" alt="grawish" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grawish&" alt="grawish" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grawish&" alt="grawish" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=grawish)
