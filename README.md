@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grawish&" alt="grawish" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=grawish)![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aayushi221)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=grawish)
