@@ -25,4 +25,6 @@
 
 <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grawish&" alt="grawish" />
 
+<br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=grawish)
