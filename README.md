@@ -16,15 +16,21 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/grawish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grawish" /></a></p><br><br>
-
-<br/>
+<p><a href="https://www.buymeacoffee.com/grawish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grawish" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grawish&show_icons=true&locale=en&layout=compact" alt="grawish" /></p>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=grawish&show_icons=true&locale=en" alt="grawish" />
-
-<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grawish&" alt="grawish" />
+<p>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=grawish&show_icons=true&locale=en" alt="grawish" />
+</p>
+<p>
+<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grawish&" alt="grawish" />
+</p>
+<br>
 
 <br>
+
+<br>
+
+***
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=grawish)
